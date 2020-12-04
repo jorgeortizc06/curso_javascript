@@ -1,0 +1,18 @@
+*¿Que es? es un archivo .js
+JQuery es una librería de JavaScript que nos ayuda en la creación de tareas
+frecuentes a la hora de programar en JavaScript como por ejemplo:
+    -Seleccionar elementos
+    -Agregar nuevo contenido
+    -Ocultar y mostrar elementos de una web
+    -Validación de formularios.
+    -Efectos visuales vistosos.
+
+*Caracteristicas
+    -Relativamente pequeña y ligera. Mas o menos 100kb
+    -CSS "friendly"
+    -Ampliamente testeada.
+    -¡Gratis!
+    -Gran comunidad de Soporte
+    -Numerosos plugins que realizan las tareas más frecuentes.
+
+Link: https://developers.google.com/speed/libraries#jquery

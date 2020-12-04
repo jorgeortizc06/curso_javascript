@@ -1,0 +1,9 @@
+En html5 para seleccionar un elemento en concreto se usa
+document.getElementById()
+document.getElementByTagName()
+
+EN JQUERY se usan el signo de dolar para selecionar elementos
+<p class="contacto">C/Gran Vía 55</p>
+$(".contacto"); //este es similar a document.getElementById("contacto")
+<p id="contacto">C/Gran Vía 55</p>
+$("#contacto");
