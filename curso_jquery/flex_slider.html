@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/flexslider2/flexslider.css">
+    <link rel="stylesheet" href="css/flexslider2/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="js/flexslider2/jquery.flexslider.js"></script>
+    <script src="js/chart/Chart.js"></script>
+</head>
+
+<body>
+    <h1>FlexSlider 2</h1>
+    <div id="main" role="main">
+        <section class="slider">
+            <div class="flexslider">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li>
+                            <img src="image/slide1.jpg" />
+                            <p class="flex-caption">Se ve rico</p>
+                        </li>
+                        <li>
+                            <img src="image/slide2.jpg" />
+                            <p class="flex-caption">Apetitosos</p>
+                        </li>
+                        <li>
+                            <img src="image/slide3.jpg" />
+                        </li>
+                        <li>
+                            <img src="image/slide4.jpg" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script>
+        $(window).on("load", function () {
+            $('.flexslider').flexslider({
+                animation: "slide"
+            });
+        });
+    </script>
+</body>
+
+</html>
