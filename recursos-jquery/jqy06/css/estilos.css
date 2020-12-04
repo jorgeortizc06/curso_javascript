@@ -1,0 +1,79 @@
+*, *:after, *:before {
+	-ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+html, body {
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	color: white;
+	background: #B24926;
+}
+
+header {
+	padding: 2rem;
+	border-bottom: thick solid #FAA523;
+	background: #292623;
+}
+
+img { max-width: 100%; }
+
+input[type="date"], input[type="email"], input[type="text"], textarea {
+	padding: .25rem;
+	width: 95%;
+	font-size: 1rem;
+	background: white;
+}
+
+input[type="date"]:focus, input[type="email"]:focus, input[type="text"]:focus, textarea:focus { background: #FAA523; }
+
+input[type="submit"], input[type="button"] {
+	margin-top: .5rem;
+	padding: .5rem;
+	font-size: 1.25rem;
+	color: white;
+	background: #FAA523;
+}
+
+input[type="submit"]:hover, input[type="button"]:hover {
+	background: #999;
+	cursor: pointer;
+}
+
+label {
+	margin: .5rem auto;
+	display: block;
+	text-align: left;
+	cursor: pointer;
+}
+
+textarea { resize:none; }
+
+#contacto, #respuesta {
+	padding: 1rem;
+	display: inline-block;
+	width: 45%;	
+	min-height: 500px;
+	vertical-align: top;
+	background: #292623;
+}
+
+#contenido {
+	margin: 2rem auto;
+	width: 80%;
+}
+
+#mensaje {
+	padding: 2rem;
+	border: thick solid #FAA523;
+	font-size: 1.5rem;
+	background: #B24926;
+}
+
+#mensaje, #precarga { display: none; }

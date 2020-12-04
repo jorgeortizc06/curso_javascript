@@ -1,0 +1,245 @@
+Responsive Web Design
+	:)	http://flexslider.woothemes.com/
+	:)	http://flex.madebymufffin.com/
+		http://responsive-slides.viljamis.com/
+		http://johnpolacek.github.com/ResponsiveThumbnailGallery/
+	:)	http://www.photoswipe.com/
+		http://tympanus.net/codrops/2011/11/21/elastic-image-slideshow-with-thumbnail-preview/
+	:)	http://tympanus.net/codrops/2012/06/12/css-only-responsive-layout-with-smooth-transitions/
+	:) 	http://iprodev.com/2012/07/iview/
+	:)	http://fitvidsjs.com/
+	:)	http://jquerypicture.com/
+	:)	http://responsive-nav.com/
+		http://wowslider.com/es/slideshow-maker-software-surface-blur-demo.html
+		http://amazingslider.com/es/
+		https://github.com/scottjehl/Respond
+	:)	http://slideme.luigiferraresi.it/
+	:)	http://www.slidesjs.com/
+	:)	http://dev7studios.com/plugins/nivo-slider
+	:)	http://responsivedesign.is/
+	:)	http://retinajs.com/
+	:)	http://github.com/scottjehl/picturefill
+		
+Frameworks
+	:)	http://jqueryui.com/
+	:)	http://jquerymobile.com/
+	:)	http://www.kendoui.com
+		http://ninjaui.com/
+
+Touch
+	:)	https://github.com/tuxracer/touchclick
+		http://www.jqtouch.com/
+
+Swipe
+	:)	http://github.com/thebird/Swipe
+		http://github.com/mattbryson/TouchSwipe-Jquery-Plugin
+
+Sliders
+	:)	http://bxslider.com/
+	:)	http://www.pixedelic.com/plugins/diapo/
+	:)	http://flex.madebymufffin.com/
+	:)	http://slidesjs.com/
+		http://www.steamdev.com/
+	:)	http://srobbin.com/jquery-plugins/pageslide/
+		http://rhinoslider.com/
+		http://tympanus.net/Development/ContentRotator/
+	:)	http://tympanus.net/codrops/2010/11/30/merging-image-boxes/
+		http://webdesignandsuch.com/fancymoves-jquery-product-slider-2/
+	:)	http://rhinoslider.com/demo-download/
+	:)	http://www.sequencejs.com/
+		http://www.zurb.com/playground/jquery_image_slider_plugin
+	:)	http://www.pixedelic.com/plugins/camera/
+	:)	http://workshop.rs/projects/coin-slider/
+	:)	http://www.philparsons.co.uk/demos/box-slider/
+		http://darsa.in/sly/
+		http://www.ndoherty.biz/demos/coda-slider/2.0/#1
+	:)	http://www.alessandroferrini.it/lab/jQueryPlugins/ferroSlider/docs/
+		http://thiagosf.net/projects/jquery/skitter/
+		http://cssglobe.com/lab/easyslider1.5/05.html
+		http://demo.tutorialzine.com/2010/12/better-confirm-box-jquery-css3/
+	:)	http://tympanus.net/codrops/2010/12/10/bubbleriffic-image-gallery/
+	http://exposureforjquery.wordpress.com/demo/
+
+DropDown Menu
+		http://jamielottering.github.com/DropKick/
+		http://javan.us/jbar/http://javan.us/jbar/
+		http://www.profilepicture.co.uk/sticky-sidebar-jquery-plugin/
+		http://pupunzi.com/#mb.components/mb._menu/menu.html
+	:)	http://www.queness.com/post/762/create-a-nice-looking-floating-menu-with-jquery-easing
+
+Indicador de Sección en Menú
+		http://www.gmarwaha.com/blog/2007/08/23/lavalamp-for-jquery-lovers/
+		http://www.queness.com/post/556/jquery-horizontal-tooltips-menu-tutorials
+
+Modal Boxes
+	:)	http://fancyapps.com/fancybox/
+	:)	http://www.p51labs.com/lightwindow/
+	:)	http://codecanyon.net/item/jquery-lightbox-evolution/full_screen_preview/115655?redirect_back=true&ref=amircp&clickthrough_id=23770907
+	http://www.uploadify.com/demos/
+
+Transiciones y transformaciones CSS3
+	:)	http://www.kabytes.com/programacion/transiciones-y-transformaciones-css-con-jquery/
+		http://ricostacruz.com/jquery.transit/
+	
+Panels
+	:)	http://www.berriart.com/sidr/
+	
+Presentaciones
+	:)	http://lab.hakim.se/reveal-js
+	:)	http://bartaz.github.com/impress.js/
+	:)	http://markdalgleish.com/projects/fathom/
+		http://paulrouget.com/dzslides/
+	:)	http://joelb.me/scrollpath/
+	:)	http://kinout.tapquo.com/example/#/
+	:)	http://azoff.github.com/tacion.js/
+		http://presentz.org/
+	:)	http://lab.hakim.se/reveal-js
+
+Parallax
+	:)	http://johnpolacek.github.io/superscrollorama/
+	:)	http://tympanus.net/codrops/2012/06/12/css-only-responsive-layout-with-smooth-transitions/
+	:)	http://ianlunn.co.uk/articles/recreate-nikebetterworld-parallax/
+	:)	http://www.outyear.co.uk/smint/
+	:)	http://wagerfield.github.io/parallax/
+	:)	http://blog.themeforest.net/tutorials/create-a-funky-parallax-background-effect-using-jquery/
+
+Preloader Page
+	:)	http://github.hubspot.com/pace/docs/welcome/
+	:)	http://tobiasahlin.com/spinkit/
+		
+File Uploader
+	:)	http://blueimp.github.com/jQuery-File-Upload/
+	   	http://www.dropzonejs.com/
+		http://www.igloolab.com/jquery-html5-uploader/
+	 
+Botones con Sonido
+		http://www.javascriptkit.com/script/script2/soundlink.shtml
+
+Galerias
+		http://galleria.io/
+		http://buildinternet.com/project/supersized/	
+		http://tympanus.net/codrops/2011/06/09/grid-navigation-effects/
+	
+Musica
+		http://www.codebasehero.com/files/music-player-1.0.1/demo/
+		http://jay-notes.blogspot.com/2010/06/simple-player-very-simple-html5-audio.html
+
+Video
+		http://flarevideo.com/
+		http://www.jplayer.org/
+	
+Texto
+		http://kiro.me/textualizer/
+		http://textextjs.com/
+		http://jschr.github.com/textillate/
+
+Geolocalización
+		http://jquerygeo.com/
+
+Efectos sobre imagenes				
+		http://www.dailycoding.com/Posts/imagelens__a_jquery_plugin_for_lens_effect_image_zooming.aspx
+		http://www.amazingthings.in/2011/07/cloud-zoom-jquery-image-zoom-plugin.html
+		http://cssglobe.com/post/9711/jquery-plugin-easy-image-zoom
+		http://jobyj.in/adipoli/
+	:)	http://webdesignerwall.com/demo/css3-image-styles/
+		http://ipicture.justmybit.com/
+		http://www.mind-projects.it/projects/jqzoom/demos.php
+	
+Efecto Revista Digital
+	:)	http://www.turnjs.com/
+	:)	http://builtbywill.com/code/booklet/
+	
+Etiquetas-Tips (globos)
+	:)	http://cssarrowplease.com/
+		http://craigsworks.com/projects/qtip2/
+		http://gdakram.github.com/JQuery-Tooltip-Plugin/
+		http://www.htmldrive.net/items/show/874/simple-useful-tool-tip-jquery-plugin
+		http://jquerytools.org/demos/tooltip/index.html
+	:)	http://jamescryer.github.com/grumble.js/
+	
+Alertas
+	:)	http://thrivingkings.com/apprise/
+	:)	http://code.google.com/p/sexy-alert-box/
+	
+Gráficas
+		http://oesmith.github.com/morris.js/
+	
+Filtrado de búsquedas
+		http://luis-almeida.github.com/filtrify/
+	
+Validador de TDC
+		http://paweldecowski.github.com/jQuery-CreditCardValidator/
+	
+Backgrounds			
+		http://www.ajaxblender.com/bgstretcher-2-jquery-stretch-background-plugin-updated.html
+		http://buildinternet.com/project/supersized/slideshow/3.2/fade.html
+		:)	http://srobbin.com/jquery-plugins/backstretch/
+		
+Mapas
+		http://www.jscraft.net/plugins/craftmap.html
+		http://hpneo.github.io/gmaps/
+
+Timeline
+		http://timeline.verite.co/
+
+Favicon
+		http://tommoor.github.com/tinycon/
+
+Tablas
+	:)	http://joequery.github.com/Stupid-Table-Plugin/
+	
+Scrolls
+		http://prinzhorn.github.com/skrollr/
+		http://baijs.nl/tinyscrollbar/
+		http://manos.malihu.gr/jquery-custom-content-scroller/
+	:)	http://plugins.compzets.com/animatescroll
+		http://logicbox.net/jquery/simplyscroll/
+
+All in one
+	:)	http://vanity.enavu.com/
+	:)	http://reclinejs.com/
+	
+Social Media
+		http://socialitejs.com/
+	
+WYSIWYG
+	:)	http://redactorjs.com/
+	:)	http://www.appelsiini.net/projects/jeditable
+
+Convertir a PDF
+	:)	http://jspdf.com/
+
+Barras de Notificación
+	http://www.toddmotto.com/jbar-plugin-the-jquery-call-to-action-bar
+	
+Animaciones
+	http://ademilter.com/lab/liffect/
+	http://tympanus.net/Tutorials/CreativeCSS3AnimationMenus/
+	
+Reloj
+	:)	http://flipclockjs.com/
+	
+Tabs
+	http://git.aaronlumsden.com/tabulous.js/
+
+Chats
+	http://scrollback.io/
+
+Sprites
+	http://csssprites.com/
+
+Degradados
+	http://css3pie.com/
+
+Videojuegos
+	http://gamequeryjs.com/
+	http://html5games.com/
+	Memorama http://jsfiddle.net/qNKUw/1/
+	Snake http://cssdeck.com/labs/classic-snake-game-with-html5-canvas
+
+Varios
+	:)	http://jecgraphic.com/2011/12/40-fantasticos-plugins-de-jquery/
+		http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/
+		http://www.catchmyfame.com/catchmyfame-jquery-plugins
+	:)	http://www.htmldrive.net/
+	:)	http://css-tricks.com/downloads/

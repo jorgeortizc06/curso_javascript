@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>jQuery UI, Modernizr y AJAX</title>
+	<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+	<header>
+		<h1>
+			<a href="http://jqueryui.com" target="_blank">
+				<img src="img/logo-jquery-ui.png">
+			</a>
+		</h1>
+		<p>
+			jQuery UI es un conjunto de componentes interactivos con la interfaz de usuario, efectos, widgets y temas incorporados en la parte superior de la librería jQuery. Si estás construyendo aplicaciones web altamente interactivas o sólo tienes que añadir un selector de fecha para un control de formulario, jQuery UI es la elección perfecta.
+		</p>
+	</header>
+	<section id="contenido">
+		<form id="contacto" name="contacto_frm">
+			<div>
+				<label for="nombre">Nombre:</label>
+				<input type="text" id="nombre" name="nombre_txt" placeholder="Escribe tu nombre" required>
+			</div>
+			<div>
+				<label for="email">Email:</label>
+				<input type="email" id="email" name="email_txt" placeholder="Escribe tu email" required>
+			</div>
+			<div>
+				<label for="cumple">Cumple:</label>
+				<input type="date" id="cumple" name="cumple_txt" placeholder="Escribe tu cumple" required>
+			</div>
+			<div>
+				<label for="asunto">Asunto:</label>
+				<input type="text" id="asunto" name="asunto_txt" placeholder="Asunto a tratar" required>
+			</div>
+			<div>
+				<label for="comentarios">Comentarios:</label>
+				<textarea id="comentarios" name="comentarios_txa" cols="50" rows="5" placeholder="Escribe tus comentarios" required></textarea>
+			</div>
+			<div>
+				<input id="enviar" name="enviar_btn" type="submit" value="Enviar">
+			</div>
+		</form>
+		<aside id="respuesta">
+			<div id="precarga">
+				<img src="img/loader.gif">
+			</div>
+			<div id="mensaje"></div>
+		</aside>
+	</section>
+</body>
+</html>
