@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<body>
+    
+    <div class="container" id="contenido">
+        <h1 class="display-4" id="color-azul">Lorem ipsum dolor sit amet.</h1>
+        <h1>Lorem, ipsum dolor.</h1>
+        <img src="image/slide1.jpg" alt=" id='img'>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        //vscode: jquery code snippets. Ejecucion: jqdocrea... //te ayuda a autocompletar jquery
+        $(document).ready(function () {
+            //$('h1').html("reemplazado por mi jquery");
+            //$('.container h1:first').html("etiqueta h1"); //reemplazo el primer h1
+            $('.container h1:last').html("se modifico la etiqueta final"); //reemplazo el ultimo h1
+            $('#contenido').append("<h1>Soy la etiqueta h1 introducido con jquery al final</h1>");
+            $('#contenido').prepend('<h1>Soy la etiqueta h1 introducido con jquery al principio</h1>');
+            $('#color-azul').css({color: 'blue', background:'salmon', padding: '20px'}); //agrego css
+            $('#img').attr('src', 'image/slide1.jpg'); //introduci una imagen
+
+        });
+        
+    </script>
+</body>
+
+</html>
