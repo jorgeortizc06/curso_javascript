@@ -1,0 +1,38 @@
+*******Iniciar un proyecto****
+npm init -y
+*******Instalar express****
+npm i express
+******Levantar servicio****
+node server.js
+Puedes modificar package.json en la seccion scrips para levantar el servicio
+
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+
+Y se puede ejecutar de la siguiente manera
+
+npm start
+
+Pero tendras que ejecutar npm cada cambio que haces. Para ello usar:
+
+npm i nodemon -D  //-D solo sera para este proyecto
+
+nodemon server.js
+
+o si agregas al scripts. Recordar que dev no lo reconoce como lo hace con start, usar run
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+
+npm run dev //se pone run porque dev no lo reconoce
+
+***Recursos Verbos HTTP***
+get: obtengo un Recursos
+post: envio o creo un nuevo Recursos
+put: actualizar un Recursos
+delete: eliminar un Recursos
+patch: actualizar parcialmente un recurso. No se suele utilizar, se usa put
